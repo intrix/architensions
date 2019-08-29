@@ -5,19 +5,14 @@
   "email": "nichlas@itsnwa.com",
   "social": [
     {
-      "channel": "",
-      "handle": "architenisons",
-      "link_text": "tw"
-    },
-    {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "architensions",
       "link_text": "ig"
     },
     {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
+      "channel": "twitter",
+      "handle": "architenisons",
+      "link_text": "tw"
     }
   ]
 }
